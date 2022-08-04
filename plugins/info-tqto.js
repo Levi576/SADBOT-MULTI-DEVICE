@@ -51,6 +51,8 @@ https://github.com/LitRHap
 https://github.com/Rlxfly
 *❉ Aine:*
 https://github.com/Aiinne
+*❉ Levi:*
+https://github.com/Levi576
 *▸ - - - —「 KANG RECODE 」— - - - ◂*
 *❉ Fahri:*
 https://github.com/FahriAdison
@@ -61,9 +63,9 @@ https://github.com/FahriAdison
 *❉ Rlxfly:*
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/bot_whangsaf",
+    mediaUrl: "https://github.com/Levi576",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
+    description: "https://github.com/Levi576", 
     title: 'Simple Bot Esm',
     body: wm,
     thumbnail: thumb,
