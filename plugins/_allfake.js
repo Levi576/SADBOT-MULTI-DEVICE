@@ -48,7 +48,7 @@ handler.all = async function (m) {
 					description: 'simple bot esm',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/FahriAdison",					
+					sourceUrl: "https://github.com/Levi576",					
 				}
 			}
 		}
@@ -65,9 +65,9 @@ handler.all = async function (m) {
     } }
 global.fakefb = {
          contextInfo: { externalAdReply: { showAdAttribution: true,
-            mediaUrl: "https://Facebook.com/adison_fahri",
+            mediaUrl: "https://www.facebook.com/erdiansyah.teddy.3",
             mediaType: "VIDEO",
-            description: "https://Facebook.com/adison_fahri", 
+            description: "https://www.facebook.com/erdiansyah.teddy.3", 
             title: 'Simple Bot Esm',
             body: wm,
             thumbnailUrl: pp,
